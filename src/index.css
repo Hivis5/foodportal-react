@@ -113,7 +113,7 @@
   margin: auto;
   padding: 10px;
 }
-.product-wrapper{
+.product-wrapper>h2{
   text-align: center;
   padding: 10px;
 }
